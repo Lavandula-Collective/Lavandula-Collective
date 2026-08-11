@@ -73,11 +73,32 @@
 	--color-home-card-border: var(--grey-20) !important;
 	--color-home-card-border-hover: var(--grey-30) !important;
 	--box-shadow-home-card: 0px 0px 12px -5px #7c5cc440 !important;
+
+	/* Code blocks */
+	--color-code-bg: var(--grey-10) !important;
+	--color-code-bg-hover: var(--grey-20) !important;
+	--color-code-copy-bg: var(--grey-20) !important;
+	--color-search-code: var(--accent-100) !important;
+
+	/* Tables */
+	--color-table-border: var(--grey-20) !important;
+	--color-table-row-hover: var(--grey-10) !important;
+	--color-table-actions: var(--grey-60) !important;
+
+	/* Scrollbar */
+	--color-scroll: var(--grey-30) !important;
+	--color-scroll-bg: transparent !important;
+
+	/* Radius */
+	--radius-small: 6px !important;
+	--radius-medium: 10px !important;
+	--radius-large: 14px !important;
+	--radius-x-large: 18px !important;
 }
 
 #custom-style[data-theme="dark"] {
 	--grey-05: #1c1628 !important;
-	--grey-10: #241c33 !important;
+	--grey-10: #2c233e !important;
 	--grey-20: #34283f !important;
 	--grey-30: #453660 !important;
 	--grey-60: #b6a4d8 !important;
@@ -126,6 +147,21 @@
 	--color-home-card-border: var(--grey-20) !important;
 	--color-home-card-border-hover: var(--grey-30) !important;
 	--box-shadow-home-card: 0px 0px 12px -5px #00000060 !important;
+
+	/* Code blocks */
+	--color-code-bg: var(--grey-10) !important;
+	--color-code-bg-hover: var(--grey-20) !important;
+	--color-code-copy-bg: var(--grey-20) !important;
+	--color-search-code: var(--accent-80) !important;
+
+	/* Tables */
+	--color-table-border: var(--grey-20) !important;
+	--color-table-row-hover: var(--grey-10) !important;
+	--color-table-actions: var(--grey-60) !important;
+
+	/* Scrollbar */
+	--color-scroll: var(--grey-30) !important;
+	--color-scroll-bg: transparent !important;
 }
 
 /* Catalog card logo sizing, applies across all catalogs */
