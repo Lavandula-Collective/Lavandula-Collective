@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600&display=swap');
 
-#custom-style {
+:root {
 	/* Lavendre palette */
 	--grey-05: #f9f8fb;
 	--grey-10: #f2effa;
@@ -18,7 +18,7 @@
 	--app-font-family: 'Nunito', sans-serif;
 }
 
-#custom-style[data-theme="light"] {
+:root, [data-theme="light"] {
 	/* Link color in the application */
 	--color-link: var(--accent-80);
 
@@ -74,7 +74,7 @@
 	--box-shadow-home-card: 0px 0px 12px -5px #7c5cc440;
 }
 
-#custom-style[data-theme="dark"] {
+[data-theme="dark"] {
 	--grey-05: #1c1628;
 	--grey-10: #241c33;
 	--grey-20: #34283f;
