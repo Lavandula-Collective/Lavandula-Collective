@@ -1,6 +1,7 @@
-title: Lavandula Collective
+isGitRepo: true
 optionalCategoryIndex: true
-supportedLanguages: []
 properties: []
+supportedLanguages: []
+title: Lavandula Collective
 versions:
   - v1
