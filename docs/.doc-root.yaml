@@ -5,3 +5,6 @@ supportedLanguages: []
 title: Lavandula Collective
 versions:
   - v1
+style: purple
+logo: logo.svg
+logo_dark: logo.svg
