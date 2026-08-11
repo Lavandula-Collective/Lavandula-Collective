@@ -43,6 +43,7 @@
 	/* Article */
 	--color-article-heading-text: var(--grey-100) !important;
 	--color-article-text: var(--grey-100) !important;
+	--color-article-bg: #ffffff !important;
 
 	/* NOTES */
 	--color-admonition-quote-border: var(--accent-80) !important;
@@ -101,6 +102,7 @@
 
 	--color-article-heading-text: var(--grey-100) !important;
 	--color-article-text: var(--grey-100) !important;
+	--color-article-bg: var(--grey-05) !important;
 
 	--color-admonition-quote-border: var(--accent-80) !important;
 	--color-admonition-quote-bg: var(--grey-10) !important;
