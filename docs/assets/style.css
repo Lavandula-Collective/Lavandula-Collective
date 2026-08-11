@@ -15,7 +15,7 @@
 	--accent-100: #7c5cc4 !important;
 
 	/* Font */
-	--app-font-family: 'Nunito', sans-serif !important;
+	--app-font-famaly: 'Nunito', sans-serif !important;
 }
 
 #custom-style, #custom-style[data-theme="light"] {
