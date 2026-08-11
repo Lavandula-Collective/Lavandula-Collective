@@ -28,7 +28,7 @@ jobs:
 
       - run: npm install -g gramax-cli
 
-      - run: gramax-cli build --source ./docs --destination ./site
+      - run: gramax-cli build --source ./docs --destination ./site --custom-css ./docs/custom.css
 
       - uses: actions/configure-pages@v4
 
