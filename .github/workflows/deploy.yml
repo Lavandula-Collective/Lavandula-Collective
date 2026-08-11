@@ -28,7 +28,14 @@ jobs:
 
       - run: npm install -g gramax-cli
 
-      - run: gramax-cli build --source ./docs --destination ./site --custom-css ./docs/assets/style.css
+      - run: gramax-cli build --source ./docs --destination ./site
+
+      - name: Copy custom CSS
+        run: cp ./docs/assets/style.css ./site/style.css
+
+      - name: Inject custom CSS
+        run: |
+          find ./site -name "*.html" -type f -exec sed -i 's|</head>|<link rel="stylesheet" href="/style.css"></head>|' {} +
 
       - run: cp ./docs/assets/favicon.ico ./site/favicon.ico
 
