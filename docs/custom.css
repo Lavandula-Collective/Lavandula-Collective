@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600&display=swap');
+
+#custom-style {
+	/* Lavendre palette */
+	--grey-05: #f9f8fb;
+	--grey-10: #f2effa;
+	--grey-20: #e5dff2;
+	--grey-30: #d6cbe8;
+	--grey-60: #7c6a9c;
+	--grey-70: #5e4d7d;
+	--grey-90: #362a4c;
+	--grey-100: #241a38;
+
+	--accent-80: #9b7fd4;
+	--accent-100: #7c5cc4;
+
+	/* Font */
+	--app-font-family: 'Nunito', sans-serif;
+}
+
+#custom-style[data-theme="light"] {
+	/* Link color in the application */
+	--color-link: var(--accent-80);
+
+	/* Text color */
+	--color-primary: var(--grey-100);
+	--color-primary-general: var(--grey-60);
+
+	/* Background color for tooltips, previews, inline, and main panels */
+	--color-tooltip-background: var(--grey-90);
+
+	/* Left sidebar (navigation) */
+	--color-nav-item: var(--grey-70);
+	--color-nav-item-selected: var(--accent-100);
+	--color-nav-menu-bg: var(--grey-10);
+
+	/* Right sidebar */
+	--color-right-nav-bg: var(--grey-10);
+
+	/* Git panel in the left navigation (bottom) */
+	--version-control-primary: var(--accent-100);
+
+	/* Article */
+	--color-article-heading-text: var(--grey-100);
+	--color-article-text: var(--grey-100);
+
+	/* NOTES */
+	--color-admonition-quote-border: var(--accent-80);
+	--color-admonition-quote-bg: var(--grey-10);
+	--color-admonition-text: var(--grey-70);
+
+	/* BUTTONS */
+
+	/* Standard */
+	--color-btn-default-bg: var(--accent-100);
+	--color-btn-default-text: #fff;
+	--border-btn-default: 1px solid transparent;
+	--opacity-btn-default-bg-hover: 1;
+	--color-btn-default-text-hover: #fff;
+	--color-btn-default-bg-hover: var(--accent-80);
+
+	/* Underlined */
+	--color-btn-underline-text: var(--grey-100);
+	--color-btn-underline-text-hover: var(--accent-100);
+
+	/* Homepage */
+	--color-home-bg: var(--grey-05);
+	--color-home-card-link: var(--grey-70);
+	--color-home-card-link-hover: var(--grey-70);
+	--color-home-card-bg: #ffffff;
+	--color-home-card-bg-hover: var(--grey-10);
+	--color-home-card-border: var(--grey-20);
+	--color-home-card-border-hover: var(--grey-30);
+	--box-shadow-home-card: 0px 0px 12px -5px #7c5cc440;
+}
+
+#custom-style[data-theme="dark"] {
+	--grey-05: #1c1628;
+	--grey-10: #241c33;
+	--grey-20: #34283f;
+	--grey-30: #453660;
+	--grey-60: #b6a4d8;
+	--grey-70: #cdb9ef;
+	--grey-90: #ece4fa;
+	--grey-100: #f6f3fc;
+
+	--accent-80: #b39ddb;
+	--accent-100: #a687d6;
+
+	--color-link: var(--accent-80);
+	--color-primary: var(--grey-100);
+	--color-primary-general: var(--grey-60);
+	--color-tooltip-background: var(--grey-90);
+
+	--color-nav-item: var(--grey-70);
+	--color-nav-item-selected: var(--accent-80);
+	--color-nav-menu-bg: var(--grey-10);
+	--color-right-nav-bg: var(--grey-10);
+
+	--version-control-primary: var(--accent-100);
+
+	--color-article-heading-text: var(--grey-100);
+	--color-article-text: var(--grey-100);
+
+	--color-admonition-quote-border: var(--accent-80);
+	--color-admonition-quote-bg: var(--grey-10);
+	--color-admonition-text: var(--grey-70);
+
+	--color-btn-default-bg: var(--accent-100);
+	--color-btn-default-text: #1c1628;
+	--border-btn-default: 1px solid transparent;
+	--opacity-btn-default-bg-hover: 1;
+	--color-btn-default-text-hover: #1c1628;
+	--color-btn-default-bg-hover: var(--accent-80);
+
+	--color-btn-underline-text: var(--grey-100);
+	--color-btn-underline-text-hover: var(--accent-100);
+
+	--color-home-bg: var(--grey-05);
+	--color-home-card-link: var(--grey-70);
+	--color-home-card-link-hover: var(--grey-70);
+	--color-home-card-bg: var(--grey-10);
+	--color-home-card-bg-hover: var(--grey-20);
+	--color-home-card-border: var(--grey-20);
+	--color-home-card-border-hover: var(--grey-30);
+	--box-shadow-home-card: 0px 0px 12px -5px #00000060;
+}
+
+/* Catalog card logo sizing, applies across all catalogs */
+.catalog-title-logo {
+	height: 5.5rem;
+	top: 0.5rem;
+	right: 0;
+}
