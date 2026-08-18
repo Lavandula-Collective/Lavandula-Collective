@@ -1,129 +1,134 @@
 ---
-icon: life-ring
+description: >-
+  Governing the use and distribution of Lavandula Collective properties,
+  including all modpacks, standalone mods, resource packs, and original assets
+  released under the Lavandula Collective name.
+icon: copyright
 layout:
   width: wide
   title:
-    visible: false
+    visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: false
   outline:
-    visible: false
+    visible: true
   pagination:
-    visible: false
+    visible: true
   metadata:
-    visible: false
+    visible: true
   tags:
     visible: true
   actions:
     visible: true
 ---
 
-# Help Center
+# License
 
-{% columns %}
-{% column width="16.666666666666664%" %}
+***
 
-{% endcolumn %}
+<h3 id="lavandula-collective-license-1.0" align="center">Lavandula Collective License 1.0</h3>
 
-{% column width="66.66666666666667%" %}
-{% hint style="success" %}
-**All systems operational** — No known issues. [View status page](https://status.gitbook.com)
-{% endhint %}
-{% endcolumn %}
+<p align="center"><strong>Copyright © 2026 Lavandula Collective. All Rights Reserved.</strong></p>
 
-{% column width="16.666666666666657%" %}
+### 1. Scope <a href="#id-1.-scope" id="id-1.-scope"></a>
 
-{% endcolumn %}
-{% endcolumns %}
+This license applies to all projects released by Lavandula Collective, including but not limited to:
 
-<h2 align="center">What can we help you find?</h2>
+* Modpacks (e.g. Lavendre)
+* Standalone mods
+* Resource packs, CIT packs, and datapacks
+* Original code, configurations, documentation, textures, models, branding, and other assets created specifically for any Lavandula Collective project
 
-<p align="center">Browse the topics below or use the GitBook Assistant to ask anything you need help with.</p>
+Where a specific project ships with its own license file, that file governs the specific project. This license applies by default to any Lavandula Collective project that does not.
 
-<p align="center"><button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">How can we help?</button><a href="https://gitbook.com/" class="button secondary" data-icon="paper-plane">Contact support</a></p>
+Individual mods, resource packs, textures, models, artwork, audio, fonts, and other third-party content bundled with a Lavandula Collective project remain the property of their respective creators and are governed by their own licenses. Nothing here overrides, replaces, or modifies those licenses.
 
-&#x20;
+### 2. Permitted Uses <a href="#id-2.-permitted-uses" id="id-2.-permitted-uses"></a>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h3><i class="fa-leaf" style="color:$primary;">:leaf:</i></h3></td><td><h4><strong>Getting started</strong></h4></td><td>Get help with the basics</td><td><a href="https://app.gitbook.com/s/hefpN3O8adzKmbhLbcjS/getting-started">Getting started</a></td></tr><tr><td><h3><i class="fa-money-bill-wave" style="color:$primary;">:money-bill-wave:</i></h3></td><td><h4><strong>Plans and billing</strong></h4></td><td>Get help with your billing</td><td><a href="https://app.gitbook.com/s/hefpN3O8adzKmbhLbcjS/plans-billing">Plans and billing</a></td></tr><tr><td><h3><i class="fa-computer-mouse" style="color:$primary;">:computer-mouse:</i></h3></td><td><h4><strong>Admin</strong></h4></td><td>Manage your account</td><td><a href="https://app.gitbook.com/s/hefpN3O8adzKmbhLbcjS/admin">Admin</a></td></tr><tr><td><h3><i class="fa-plug" style="color:$primary;">:plug:</i></h3></td><td><h4><strong>Integrations</strong></h4></td><td>Extend your workflow</td><td><a href="https://app.gitbook.com/s/hefpN3O8adzKmbhLbcjS/integrations">Integrations</a></td></tr><tr><td><h3><i class="fa-bullhorn" style="color:$primary;">:bullhorn:</i></h3></td><td><h4><strong>Product updates</strong></h4></td><td>See what’s new</td><td><a href="https://app.gitbook.com/o/DaDQkGCM7r2TghFSBFLQ/s/euz6U9T9Ui1Un0dUKuuZ/">Changelog</a></td></tr><tr><td><h3><i class="fa-heart" style="color:$danger;">:heart:</i></h3></td><td><h4><strong>Community</strong></h4></td><td>Join our community</td><td><a href="https://app.gitbook.com/s/hefpN3O8adzKmbhLbcjS/community">Community</a></td></tr></tbody></table>
+You are permitted to:
 
-&#x20;
+* Download, install, and use any Lavandula Collective project, free of charge.
+* Use Lavandula Collective projects on private or public Minecraft servers, without restriction.
+* Include Lavandula Collective mods or packs in **non-commercial** modpacks or servers.
+* Create and monetize videos, livestreams, screenshots, tutorials, reviews, and similar content featuring Lavandula Collective projects, on platforms such as YouTube or Twitch.
+* Fork the public source repository for personal use, development, or contributing back to the project.
 
-&#x20;
+### 3. Conditions <a href="#id-3.-conditions" id="id-3.-conditions"></a>
 
-{% columns %}
-{% column %}
-### Featured
+If you distribute a Lavandula Collective project as part of a permitted modpack, mod collection, or server, you must:
 
-{% hint style="info" icon="right-to-bracket" %}
-Log in to see articles recommended based on your plan and recent activity.
+* Clearly credit **Lavandula Collective** as the creator.
+* Link to the official GitHub repository, Modrinth page, or other official source, wherever reasonably possible.
+* Preserve all copyright notices, credits, and attribution included with the project.
+* Respect the licenses of all bundled third-party content.
 
-<a href="https://gitbook.com" class="button primary">Sign up</a><a href="https://gitbook.com" class="button secondary">Log in</a>
-{% endhint %}
+### 4. Restrictions <a href="#id-4.-restrictions" id="id-4.-restrictions"></a>
 
-{% content-ref url="getting-started/getting-started-checklist.md" %}
-[getting-started-checklist.md](getting-started/getting-started-checklist.md)
-{% endcontent-ref %}
+Unless you have prior written permission from Lavandula Collective, you may **not**:
 
-{% content-ref url="getting-started/whats-the-difference-between-a-workspace-and-a-project.md" %}
-[whats-the-difference-between-a-workspace-and-a-project.md](getting-started/whats-the-difference-between-a-workspace-and-a-project.md)
-{% endcontent-ref %}
+* Redistribute a Lavandula Collective project, or any of its original assets, as a standalone download.
+* Reupload a Lavandula Collective project to other websites, launchers, mirrors, or file-hosting services.
+* Sell, license, monetize, or commercially distribute a Lavandula Collective project or any of its original assets.
+* Claim a Lavandula Collective project, or any part of its original work, as your own.
+* Remove, alter, or hide any copyright notices, credits, or attribution.
+* Publicly redistribute modified builds, forks, or derivative versions of a Lavandula Collective project as standalone projects.
+* Use a Lavandula Collective project or its original assets to train AI models, or in NFTs, blockchain projects, or other commercial products, without prior written permission.
 
-{% content-ref url="admin/managing-api-keys.md" %}
-[managing-api-keys.md](admin/managing-api-keys.md)
-{% endcontent-ref %}
-{% endcolumn %}
+### 5. Source Code <a href="#id-5.-source-code" id="id-5.-source-code"></a>
 
-{% column %}
-### Popular articles
+Lavandula Collective repositories are made publicly available to encourage transparency, issue reporting, and community contributions.
 
-{% content-ref url="admin/inviting-team-members-to-your-workspace.md" %}
-[inviting-team-members-to-your-workspace.md](admin/inviting-team-members-to-your-workspace.md)
-{% endcontent-ref %}
+Access to source code does **not** grant permission to redistribute compiled builds, packaged releases, or bundled third-party content, except where explicitly permitted by this license or by the licenses of those assets.
 
-{% content-ref url="integrations/why-isnt-my-integration-syncing.md" %}
-[why-isnt-my-integration-syncing.md](integrations/why-isnt-my-integration-syncing.md)
-{% endcontent-ref %}
+You may modify a Lavandula Collective project for personal use. Public redistribution of modified versions requires prior written permission, unless the changes are contributed back to the official repository through a pull request.
 
-{% content-ref url="plans-billing/how-do-i-change-my-plan.md" %}
-[how-do-i-change-my-plan.md](plans-billing/how-do-i-change-my-plan.md)
-{% endcontent-ref %}
+### 6. Original Work <a href="#id-6.-original-work" id="id-6.-original-work"></a>
 
-{% content-ref url="getting-started/whats-the-difference-between-a-workspace-and-a-project.md" %}
-[whats-the-difference-between-a-workspace-and-a-project.md](getting-started/whats-the-difference-between-a-workspace-and-a-project.md)
-{% endcontent-ref %}
+Unless otherwise stated, all original code, textures, models, configurations, documentation, scripts, and other assets created specifically for a Lavandula Collective project are the intellectual property of **Lavandula Collective**.
 
-{% content-ref url="getting-started/setting-up-a-custom-domain.md" %}
-[setting-up-a-custom-domain.md](getting-started/setting-up-a-custom-domain.md)
-{% endcontent-ref %}
-{% endcolumn %}
+Compatibility patches, bug fixes, configuration changes, and modernizations created for a Lavandula Collective project remain part of that project and do not imply ownership over the original third-party assets they interact with.
 
-{% column %}
-### Recently updated
+### 7. Third-Party Content <a href="#id-7.-third-party-content" id="id-7.-third-party-content"></a>
 
-{% content-ref url="integrations/connecting-a-third-party-app.md" %}
-[connecting-a-third-party-app.md](integrations/connecting-a-third-party-app.md)
-{% endcontent-ref %}
+Lavandula Collective projects may include content created by members of the wider Minecraft community.
 
-{% content-ref url="integrations/api-rate-limits-and-quotas.md" %}
-[api-rate-limits-and-quotas.md](integrations/api-rate-limits-and-quotas.md)
-{% endcontent-ref %}
+All third-party mods, resource packs, CIT packs, textures, models, artwork, audio, fonts, and other bundled assets remain the property of their respective creators and are distributed under their own licenses and permissions.
 
-{% content-ref url="admin/sso-configuration-guide.md" %}
-[sso-configuration-guide.md](admin/sso-configuration-guide.md)
-{% endcontent-ref %}
+Nothing in this license grants additional rights to redistribute, modify, sublicense, or claim ownership of third-party content. Lavandula Collective claims ownership only over its original work and compatibility additions.
 
-{% content-ref url="plans-billing/billing-faq.md" %}
-[billing-faq.md](plans-billing/billing-faq.md)
-{% endcontent-ref %}
+### 8. Community Add-ons <a href="#id-8.-community-add-ons" id="id-8.-community-add-ons"></a>
 
-{% content-ref url="admin/sso-configuration-guide.md" %}
-[sso-configuration-guide.md](admin/sso-configuration-guide.md)
-{% endcontent-ref %}
-{% endcolumn %}
-{% endcolumns %}
+Community-created addons, datapacks, shader recommendations, resource packs, and similar projects designed to work alongside a Lavandula Collective project are welcome.
 
+They must not redistribute a Lavandula Collective project's original assets or bundled third-party content, except where permitted by the respective licenses or with prior written permission.
 
+### 9. Feedback & Contributions <a href="#id-9.-feedback-and-contributions" id="id-9.-feedback-and-contributions"></a>
 
-&#x20;
+Feedback, bug reports, feature requests, and community contributions are always appreciated.
+
+By contributing to an official Lavandula Collective repository, you grant the project permission to include, modify, and distribute your contribution as part of that project, while retaining ownership of your original work.
+
+Submitting feedback or suggestions does not transfer ownership of your ideas beyond what is necessary to discuss or implement them within the project.
+
+### 10. Enforcement <a href="#id-10.-enforcement" id="id-10.-enforcement"></a>
+
+Lavandula Collective actively monitors for unauthorized redistribution or infringement of Lavandula Collective projects and their original assets. Where a violation is discovered, Lavandula Collective reserves the right to:
+
+* Submit takedown requests to platforms such as Modrinth, CurseForge, GitHub, or any other relevant hosting service.
+* Pursue appropriate legal action to protect this intellectual property.
+
+### 11. Disclaimer <a href="#id-11.-disclaimer" id="id-11.-disclaimer"></a>
+
+Lavandula Collective projects are provided **"as is"**, without warranty of any kind, express or implied.
+
+Lavandula Collective and any contributors shall not be held liable for any damages, data loss, or other issues arising from the installation or use of any Lavandula Collective project.
+
+### 12. Contact <a href="#id-12.-contact" id="id-12.-contact"></a>
+
+For licensing questions, redistribution requests, commercial inquiries, or permissions not expressly granted by this license, please contact Lavandula Collective.
+
+***
+
+**Please respect the work of every creator whose contributions make Lavandula Collective projects possible by following this license and the licenses of all third-party content included with each project.**
