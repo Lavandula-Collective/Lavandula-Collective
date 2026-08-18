@@ -32,10 +32,12 @@ layout:
 
 <figure><img src=".gitbook/assets/LC-OG-TX.png" alt="" width="375"><figcaption></figcaption></figure>
 
+<p align="center"><sub><strong>· · ──── ·✶· ──── · ·</strong></sub></p>
+
 <h4 align="center"><em>Crafting worlds worth coming home to.</em></h4>
 
-
+<p align="center"><sup>Explore our Minecraft mods, modpacks, and more!</sup></p>
 
 <p align="center"><a href="https://app.gitbook.com/o/su6DYrYGIoNVvHpiBlzo/s/VAqd8KuLEIUsMxWajGvY/" class="button primary" data-icon="box-isometric-tape">See Projects</a><a href="https://app.gitbook.com/o/su6DYrYGIoNVvHpiBlzo/s/Ps3HEspLtmNd5qRF51jU/" class="button secondary" data-icon="book-heart">Documentation</a><a href="license.md" class="button secondary" data-icon="copyright">License</a></p>
 
-<p align="center"><sub>Explore our Minecraft mods, modpacks, and more!</sub></p>
+***
