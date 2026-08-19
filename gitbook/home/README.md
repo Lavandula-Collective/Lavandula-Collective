@@ -49,4 +49,26 @@ layout:
 
 <p align="center">Discover our Minecraft mods, modpacks, and projects below!</p>
 
-<table data-card-wrap="false" data-view="cards" data-search="false"><thead><tr><th align="center"></th><th align="center"></th><th></th><th><select multiple><option value="Agb5TSHrDH8Y" label="1.21.1" color="blue"></option><option value="9nYd5gSlDTzA" label="1.20.1" color="blue"></option></select></th><th align="center"></th></tr></thead><tbody><tr><td align="center"><h3><img src=".gitbook/assets/lavendre_128.png" alt=""></h3><h3><strong>Lavendre</strong></h3></td><td align="center"><i class="fa-box-isometric-tape" style="color:$primary;">:box-isometric-tape:</i> <mark style="color:$primary;"><strong>Modpack</strong></mark></td><td>Built upon Mizuno's 16 Craft, Lavendre blends curated CIT packs, beautiful visuals, and thoughtful enhancements. Build, decorate, and feel at home!</td><td><span data-option="Agb5TSHrDH8Y">1.21.1</span></td><td align="center"><a href="https://modrinth.com/modpack/lavendre/" class="button primary" data-icon="nfc-directional">Modrinth</a><a href="https://app.gitbook.com/o/su6DYrYGIoNVvHpiBlzo/s/6yE9zCPCeRnJhsby6njd/" class="button secondary" data-icon="book-heart">Docs</a></td></tr><tr><td align="center"><h3><img src=".gitbook/assets/citx_128.png" alt=""></h3><h3><strong>CITX</strong></h3></td><td align="center"><i class="fa-gear-code" style="color:$primary;">:gear-code:</i> <mark style="color:$primary;"><strong>Mod</strong></mark></td><td>A mod that allows easy renaming of CIT items with a custom command.</td><td><span data-option="9nYd5gSlDTzA">1.20.1, </span><span data-option="Agb5TSHrDH8Y">1.21.1</span></td><td align="center"><a href="https://modrinth.com/mod/citx/" class="button primary" data-icon="nfc-directional">Modrinth</a><a href="https://app.gitbook.com/o/su6DYrYGIoNVvHpiBlzo/s/YFKPHjDb6bIm7gCTbAc3/" class="button secondary" data-icon="book-heart">Docs</a></td></tr><tr><td align="center"><p><img src=".gitbook/assets/citl_128.png" alt=""></p><h3><strong>CITL</strong></h3></td><td align="center"><i class="fa-gear-code" style="color:$primary;">:gear-code:</i> <mark style="color:$primary;"><strong>Mod</strong></mark></td><td>A mod that provides an in-game menu for browsing installed OptiFine/CIT Resewn CIT packs.</td><td></td><td align="center"><h4><mark style="color:$primary;"><strong>Coming Soon...</strong></mark></h4></td></tr></tbody></table>
+<table data-card-size="large" data-card-wrap="false" data-view="cards" data-search="false"><thead><tr><th align="center"></th><th align="center"></th><th></th><th></th><th><select multiple><option value="Agb5TSHrDH8Y" label="1.21.1" color="blue"></option><option value="9nYd5gSlDTzA" label="1.20.1" color="blue"></option></select></th><th align="center"></th></tr></thead><tbody><tr><td align="center"><h3><img src=".gitbook/assets/lavendre_128.png" alt=""></h3><h3><strong>Lavendre</strong></h3></td><td align="center"><i class="fa-box-isometric-tape" style="color:$primary;">:box-isometric-tape:</i> <mark style="color:$primary;"><strong>Modpack</strong></mark></td><td>Built upon Mizuno's 16 Craft, Lavendre blends curated CIT packs, beautiful visuals, and thoughtful enhancements. Build, decorate, and feel at home!</td><td></td><td><span data-option="Agb5TSHrDH8Y">1.21.1</span></td><td align="center"><a href="https://modrinth.com/modpack/lavendre/" class="button primary" data-icon="nfc-directional">Modrinth</a><a href="https://app.gitbook.com/o/su6DYrYGIoNVvHpiBlzo/s/6yE9zCPCeRnJhsby6njd/" class="button secondary" data-icon="book-heart">Docs</a></td></tr><tr><td align="center"><h3><img src=".gitbook/assets/citx_128.png" alt=""></h3><h3><strong>CITX</strong></h3></td><td align="center"><i class="fa-gear-code" style="color:$primary;">:gear-code:</i> <mark style="color:$primary;"><strong>Mod</strong></mark></td><td>A mod that allows easy renaming of CIT items with a custom command.</td><td></td><td><span data-option="9nYd5gSlDTzA">1.20.1, </span><span data-option="Agb5TSHrDH8Y">1.21.1</span></td><td align="center"><a href="https://modrinth.com/mod/citx/" class="button primary" data-icon="nfc-directional">Modrinth</a><a href="https://app.gitbook.com/o/su6DYrYGIoNVvHpiBlzo/s/YFKPHjDb6bIm7gCTbAc3/" class="button secondary" data-icon="book-heart">Docs</a></td></tr><tr><td align="center"><p><img src=".gitbook/assets/citl_128.png" alt=""></p><h3><strong>CITL</strong></h3></td><td align="center"><i class="fa-gear-code" style="color:$primary;">:gear-code:</i> <mark style="color:$primary;"><strong>Mod</strong></mark></td><td>A mod that provides an in-game menu for browsing installed OptiFine/CIT Resewn CIT packs.</td><td></td><td><span data-option="Agb5TSHrDH8Y">1.21.1</span></td><td align="center"><h4><mark style="color:$primary;"><strong>Coming Soon...</strong></mark></h4></td></tr></tbody></table>
+
+
+
+
+
+***
+
+
+
+
+
+<h2 align="center"><mark style="color:$primary;">Meet the Lavenfolk</mark></h2>
+
+<p align="center">Meet the community and keep up with what's happening around the Collective.</p>
+
+<p align="center"><a href="https://discord.gg/DXFpzAn2fh/" class="button primary" data-icon="discord">Join Discord</a><a href="https://github.com/Lavandula-Collective/" class="button secondary" data-icon="github">GitHub Organization</a></p>
+
+<p align="center"></p>
+
+<p align="center"></p>
+
+***
